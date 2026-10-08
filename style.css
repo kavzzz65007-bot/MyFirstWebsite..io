@@ -1,0 +1,25 @@
+body{
+    font-family : Arial,sans-serif;
+    background-color : rgb(238, 234, 232);
+    text-align : center;
+    padding : 50px;
+
+}
+h{
+    font-size : 30px;
+    font-weight : bold;
+    color : rgb(13, 1, 1);
+}
+p{
+    font-size : 20px;
+    color : white;
+}
+ol{
+    display: inline-block;
+    text-align: left;
+    padding-left:25px;
+}
+#main{
+    margin : 40px;
+    padding : 40px
+}
